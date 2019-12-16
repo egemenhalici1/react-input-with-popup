@@ -1,6 +1,6 @@
 {
   "name": "react-input-with-popup",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Input Component with Popup",
   "main": "build/index.js",
   "peerDependencies": {
