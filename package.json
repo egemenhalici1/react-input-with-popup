@@ -1,6 +1,6 @@
 {
   "name": "react-input-with-popup",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Input Component with Popup",
   "main": "build/index.js",
   "peerDependencies": {
@@ -18,7 +18,11 @@
   "author": {
     "name": "Egemen HALICI",
     "email": "egemenhalici@gmail.com",
-	"url" : "https://github.com/egemenhalici1/react-input-with-popup"
+    "url": "https://github.com/egemenhalici1/react-input-with-popup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egemenhalici1/react-input-with-popup.git"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
